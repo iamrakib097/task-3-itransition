@@ -27,11 +27,11 @@ This repository contains a JavaScript implementation of a generalized rock-paper
 
 ## Running the Game
 ```bash
-node task.js rock paper scissors
+node game.js rock paper scissors
 ```
 
 ```bash
-node task.js rock paper scissors lizard Spock
+node game.js rock paper scissors lizard Spock
 
 ```
 
