@@ -43,6 +43,9 @@ node game.js rock paper scissors lizard Spock
 - To see a help table showing the win/lose/draw outcomes for each move, enter ?.
 - To exit the game, enter 0.
 
+![How to play GIF](howtoplay.gif)
+
+
 ## Help Table
 ```
 pc/player   rock          paper        scissors       lizard           Spock
